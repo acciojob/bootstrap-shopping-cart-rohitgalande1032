@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body {
+	background-color: #f3f3f3;
+}
+.block-heading{
+	text-align: center;
+}
+
+.heading {
+	color: #3b99e0;
+}
+
+.summary {
+	background-color: #f7fbff;
+	border-top: 2px solid #5ea4f3;
+	height: 100vh;
+	margin-left: 50px;
+}
+
+.summary-sec{
+	border-bottom: 2px solid gray;
+}
